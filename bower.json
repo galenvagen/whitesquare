@@ -1,0 +1,14 @@
+{
+  "name": "whitesquare",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Igor Latyshev"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}

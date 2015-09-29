@@ -1,0 +1,29 @@
+{
+  "name": "whitesquare",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Latyshev",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galenvagen/whitesquare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/galenvagen/whitesquare/issues"
+  },
+  "homepage": "https://github.com/galenvagen/whitesquare#readme"
+}
